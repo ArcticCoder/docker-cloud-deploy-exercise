@@ -1,7 +1,8 @@
 # fly.toml file generated for crimson-water-4690 on 2023-03-16T13:34:37Z
 
 app = "crimson-water-4690"
-kill_signal = "SIGINT" kill_timeout = 5
+kill_signal = "SIGINT"
+kill_timeout = 5
 processes = []
 
 [env]
